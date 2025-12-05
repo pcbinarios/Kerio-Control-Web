@@ -518,5 +518,5 @@ Este proyecto está bajo las Licencias MIT y GNU
 ---
 
 **Versión**: 1.0.0  
-**Fecha**: Diciembre 2024  
+**Fecha**: Diciembre 2025  
 **Compatible con**: Kerio Control 9.0+
