@@ -505,7 +505,7 @@ Para reportar bugs o sugerir mejoras:
 
 ## 📄 Licencia
 
-Este proyecto está bajo las Licencias MIT y GNU
+Este proyecto está bajo las Licencias MIT y GPL-3.0
 
 ## ✨ Créditos
 
